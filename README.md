@@ -1,0 +1,3 @@
+# swg
+swc precheck
+allisnone
